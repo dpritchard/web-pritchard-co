@@ -4,9 +4,11 @@ layout: default
 
 # Publications
 
-**Pritchard, D. W.**, Paterson, R. A., Bovy, H. C. and Barrios-O'Neill, D.  2017.  [FRAIR: an R package for fitting and comparing consumer functional responses][pritchard:2017].  *Methods in Ecology and Evolution*, Accepted Author Manuscript.
+Schuchert, P., Kregting, L., **Pritchard D. W.**, Savidge G., Elsäßer B. 2018. [Using Coupled Hydrodynamic Biogeochemical Models to Predict the Effects of Tidal Turbine Arrays on Phytoplankton Dynamics][schuchert:2018]. Journal of Marine Science and Engineering, 6:2 58.
 
-Desmond, M.J., **Pritchard, D.W.**, and Hepburn, C.D. 2017. [Light dose versus rate of delivery: implications for macroalgal productivity][desmond:2017]. *Photosynthesis Research*, Accepted Author Manuscript.
+**Pritchard, D. W.**, Paterson, R. A., Bovy, H. C. and Barrios-O'Neill, D.  2017.  [FRAIR: an R package for fitting and comparing consumer functional responses][pritchard:2017].  *Methods in Ecology and Evolution*, 8:11 1528-1534.
+
+Desmond, M.J., **Pritchard, D.W.**, and Hepburn, C.D. 2017. [Light dose versus rate of delivery: implications for macroalgal productivity][desmond:2017]. *Photosynthesis Research*, 132:3 257–264.
 
 Brownstein, G., Johns, C., Fletcher, A., **Pritchard, D.W.**, and Erskine, P. D.  2015.  [Ecotones as indicators: boundary properties in wetland-woodland transition zones][brownstein:2015:235].  *Community Ecology*, 16: 235-243.
 
@@ -33,11 +35,12 @@ Hepburn C.D., **Pritchard D.W.**, Cornwall C.E., McLeod R.J., Beardall J., Raven
 Richards D.K., Hurd C.L., **Pritchard D.W.**, Wing S.R., Hepburn C.D. 2011. [Photosynthetic response of monospecific macroalgal stands to density][richards:2011]. *Aquatic Biology*, 13: 41-49.
 
 # Peer Reviewed Conference Proceedings
-Kramer, S. C., Piggott, M. D., Hill, J., Kregting, L., **Pritchard, D.**, Elsäßer, B. 2014. The modelling of tidal turbine farms using multi-scale, unstructured mesh models. *Proceedings of the 2nd International Conference on Environmental Interations of Marine Renewable Energy Technologies*.
+Kramer, S. C., Piggott, M. D., Hill, J., Kregting, L., **Pritchard, D.**, Elsäßer, B. 2014. The modelling of tidal turbine farms using multi-scale, unstructured mesh models. *Proceedings of the 2nd International Conference on Environmental Interactions of Marine Renewable Energy Technologies*.
 
 # PhD Thesis
-The ecophysiology of the deep-water macroalga *Anotrichium crinitum* (Kützing) Baldock.  November 2011.  PhD Thesis, University of Otago, Dunedin, New Zealand. [Abstract available online](http://hdl.handle.net/10523/1955). Full text available [on request](../contact.html).
+The ecophysiology of the deep-water macroalga *Anotrichium crinitum* (Kützing) Baldock.  November 2011.  PhD Thesis, University of Otago, Dunedin, New Zealand. [Abstract available online](http://hdl.handle.net/10523/1955). Full text available [on request]({{ '../contact.html' | relative_url }}).
 
+[schuchert:2018]: https://doi.org/10.3390/jmse6020058
 [pritchard:2017]: http://dx.doi.org/10.1111/2041-210X.12784
 [desmond:2017]: http://dx.doi.org/10.1007/s11120-017-0381-z
 [brownstein:2015:235]: http://dx.doi.org/10.1556/168.2015.16.2.11
