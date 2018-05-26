@@ -36,5 +36,5 @@ Coupled hydrodynamic and wastewater plume models of Belfast Lough, Northern Irel
 </div>
 
 [MIKE]: http://www.dhisoftware.com  
-[pubs]: ../../publications/
+[pubs]: {{ '../../publications/' | relative_url }}
 [ntslf]: http://www.ntslf.org

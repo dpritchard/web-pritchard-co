@@ -27,7 +27,7 @@ This bookmarklet was first developed in 2009. It has worked with almost no modif
         bookmarklet to your "Bookmarks Bar" (press shift + ⌘ + B to show
         the bookmarks bar).
 
-        ![Draging-and-droping in Safari](safari_howto.png)
+        ![Draging-and-droping in Safari](./safari_howto.png)
 
     -   If you are using some other browser you might be able to right
         click and choose "Save As Bookmark", "Bookmark This Link" or

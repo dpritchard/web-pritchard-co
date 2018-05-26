@@ -16,7 +16,7 @@ This code was developed during my tenure with QUB (2010 - 2014). Since I no long
 
 [A bookmarklet](http://www.google.co.nz/search?q=define:Bookmarklet) is a small piece of JavaScript code stored as a URL within a bookmark. There is nothing to it.  Really, this is it:
 
-<a href="javascript:var str=location.href;location='https://queens.ezp1.qub.ac.uk/login?url='+str.replace('?CRETRY=1&SRETRY=0','');"><img src="qub_ezproxy.png" alt="QUB EzProxy" /></a>
+<a href="javascript:var str=location.href;location='https://queens.ezp1.qub.ac.uk/login?url='+str.replace('?CRETRY=1&SRETRY=0','');"><img src="./qub_ezproxy.png" alt="QUB EzProxy" /></a>
 
 ## Instructions
 
@@ -35,7 +35,7 @@ This code was developed during my tenure with QUB (2010 - 2014). Since I no long
 3.  Hope and pray the University is subscribed to the journal via the
     provider you happened to be browsing.
 
-Any questions, comments or requests please feel free to [contact me](/contact).
+Any questions, comments or requests please feel free to [contact me]({{ '/contact' | relative_url }}).
 
 ## Development
 

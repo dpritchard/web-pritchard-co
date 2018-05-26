@@ -40,7 +40,7 @@ We are grateful for the efforts of Jared Fudge who entered much of the
 initial data as part of a University of Otago Summer Student Bursary
 from December 2009 to February 2010.
 
-For more information about this project [contact Daniel](/contact)
+For more information about this project [contact Daniel]({{ '/contact' | relative_url }})
 
 Links
 -----

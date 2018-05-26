@@ -12,7 +12,7 @@ It was developed to support my partner who worked for University Queensland for 
 
 There is nothing to it.  Really, this is it:
 
-<a href="javascript:var str=location.href;location='http://ezproxy.library.uq.edu.au/login?url='+str.replace('?CRETRY=1&SRETRY=0','');"><img src="uq_ezproxy.png" alt="UQ EzProxy" /></a>
+<a href="javascript:var str=location.href;location='http://ezproxy.library.uq.edu.au/login?url='+str.replace('?CRETRY=1&SRETRY=0','');"><img src="./uq_ezproxy.png" alt="UQ EzProxy" /></a>
 
 ## Instructions
 
@@ -31,7 +31,7 @@ There is nothing to it.  Really, this is it:
 3.  Hope and pray the University is subscribed to the journal via the
     provider you happened to be browsing.
 
-Any questions, comments or requests please feel free to [contact me](/contact).
+Any questions, comments or requests please feel free to [contact me]({{ '/contact' | relative_url }}).
 
 ## Development
 
@@ -58,6 +58,6 @@ Initial attempt. Follows the scheme of the old [QUB Bookmarklet][qub] until I ca
 [^1]: Clicking the bookmarklet on this page directly will **not** have the desired outcome.
 
 [uq]: http://www.uq.edu.au
-[oo]: /code/otago_ezproxy_bookmarklet/
-[qub]: /code/qub_bookmarklet/
+[oo]: {{ '/code/otago_ezproxy_bookmarklet/' | relative_url }}
+[qub]: {{ '/code/qub_bookmarklet/' | relative_url }}
 [gb]: http://www.cmlr.uq.edu.au/AboutUs/OurPeople/DrGretchenBrownstein.aspx

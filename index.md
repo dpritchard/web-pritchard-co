@@ -9,15 +9,15 @@ layout: default
   </div>
 </div>
 
-# [Research](/research/)
+# [Research]({{ '/research/' | relative_url }})
 
 I am an algal ecophysiologist, numerical ecologist and an active research diver.  I'm always up to something. Officially sanctioned projects reside here.
 
-# [Contact](/contact)
+# [Contact]({{ '/contact' | relative_url }})
 Here is the information you need to track me down.
 
-# [Publications](/publications/)
+# [Publications]({{ '/publications/' | relative_url }})
 It's what we do. Here is a list of my contributions.  
 
-# [Code](/code/)
+# [Code]({{ '/code/' | relative_url }})
 My own tools and code. R, MATLAB, Python, PHP or Javascript.
