@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="card float-sm-right mx-2" style="max-width: 15rem;">
-  <img class="card-img-top" src="{{ "/images/mug_shot.jpg" | absolute_path}}" alt="June 2015">
+  <img class="card-img-top" src="{{ "/images/mug_shot.jpg" | relative_url}}" alt="June 2015">
   <div class="card-body">
     <p class="card-text text-center">June 2015</p>
   </div>
