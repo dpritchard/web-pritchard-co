@@ -8,13 +8,13 @@ In most natural systems macroalgal growth during summer is limited by nitrogen a
 
 <div class="card-deck float-lg-right mx-2">
 <div class="card" style="max-width: 200px">
-    <img class="card-img-top" src="/images/DSC02228_crop200px.jpg" alt="An Aquadopp (ADCP).">
+    <img class="card-img-top" src="{{ "/images/DSC02228_crop200px.jpg" | relative_url}}" alt="An Aquadopp (ADCP).">
     <div class="card-body">
         <p class="card-text text-center">An Aquadopp (ADCP) on the bottom near the diffuser (28/03/2012).</p>
     </div>
 </div>
 <div class="card" style="max-width: 200px">
-    <img class="card-img-top" src="/images/Fig1v2_high.png" alt="Belfast Lough Model Domain.">
+    <img class="card-img-top" src="{{ "/images/Fig1v2_high.png" | relative_url}}" alt="Belfast Lough Model Domain.">
     <div class="card-body">
         <p class="card-text text-center">Belfast Lough Model Domain.</p>
     </div>
@@ -29,7 +29,7 @@ On top of this hydrodynamic model we applied a Eulerian description of plume dis
 Coupled hydrodynamic and wastewater plume models of Belfast Lough, Northern Ireland: A predictive tool for future ecological studies. **Pritchard, D.W.**, Savidge G., Elsäßer, B. *Marine Pollution Bulletin*.  For further information, see the [Publications Page][pubs]
 
 <div class="card" style="max-width: 750px">
-    <img class="card-img-top" src="/images/CSC_0046_crop.jpg" alt="Sunny Belfast Lough.">
+    <img class="card-img-top" src="{{ "/images/CSC_0046_crop.jpg" | relative_url}}" alt="Sunny Belfast Lough.">
     <div class="card-body">
         <p class="card-text text-center">On our way to dive the diffuser near the entrance to Belfast Lough (28/03/2012).</p>
     </div>

@@ -5,7 +5,7 @@ layout: default
 # The ecophysiology of the deep-water macroalga *Anotrichium crinitum* (Kützing) Baldock
 
 <div class="card float-sm-right mx-2" style="max-width: 200px">
-    <img class="card-img-top" src="/images/P1020780_cropped_200px.jpeg" alt="Photosynthesis experiment.">
+    <img class="card-img-top" src="{{ "/images/P1020780_cropped_200px.jpeg" | relative_url}}" alt="Photosynthesis experiment.">
     <div class="card-body">
         <p class="card-text text-center"><em>A. crinitum</em> sealed in an acrylic chamber for photosynthesis <em>versus</em> irradiance experiments.</p>
     </div>

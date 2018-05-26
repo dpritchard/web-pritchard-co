@@ -4,7 +4,7 @@ layout: default
 
 # Code
 
-The two main 'general' programming languages I use in my research are [R][cran], PHP, Javascript and SQL. I am also a competent [MATLAB][MATLAB] / Octave user. This page lists some useful tools that I have developed.
+The main programming languages I use in my research are [R][cran], PHP, Javascript and SQL. I am also a competent [MATLAB][MATLAB] / Octave user. This page lists some useful tools that I have developed.
 
 ## R Packages
 R is my analysis software of choice and I have developed and maintain several packages.

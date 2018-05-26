@@ -5,7 +5,7 @@ layout: default
 # Research
 
 <div class="card float-sm-right mx-2" style="max-width: 200px;">
-  <img class="card-img-top" src="/images/DSCN3795_200px.jpg" alt="Collecting <em>Halopteris novae-zelandiae</em>.">
+  <img class="card-img-top" src="{{ "/images/DSCN3795_200px.jpg" | relative_url }}" alt="Collecting <em>Halopteris novae-zelandiae</em>.">
   <div class="card-body">
     <p class="card-text text-center">Collecting <em>Halopteris novae-zelandiae</em> from a typical low light rocky reef in Otago, New Zealand (18/12/2006).</p>
   </div>
@@ -46,7 +46,7 @@ My PhD thesis research at the University of Otago, supervised by [Catriona Hurd]
 A database and spatial visualisation project which aims to collate information about marine research conducted around New Zealand.  The objective of this project was to connect local people with local (marine) research conducted in their area. [More info...](/research/localknowledge/)
 
 <div class="card">
-  <img class="card-img-top" src="/images/Karitane_From_South.jpg" alt="Collecting <em>Karitane and the Huriawa Peninsula.">
+  <img class="card-img-top" src="{{ "/images/Karitane_From_South.jpg" | relative_url}}" alt="Collecting <em>Karitane and the Huriawa Peninsula.">
   <div class="card-body">
     <p class="card-text text-center">Karitane and the Huriawa Peninsula (field site during my PhD), on a particularly calm autumn day (30/04/2010).</p>
   </div>

@@ -8,7 +8,7 @@ layout: default
 
 <div class="card float-sm-right mx-2" style="max-width: 400px">
     <a href="http://db.pritchard.co/localknowledge/map/">
-        <img class="card-img-top" src="/images/LK_screenshot.png" alt="Screenshot of the Local Knowledge map interface.">
+        <img class="card-img-top" src="{{ "/images/LK_screenshot.png" | relative_url}}" alt="Screenshot of the Local Knowledge map interface.">
     </a>
     <div class="card-body">
         <p class="card-text text-center">Screenshot of the Local Knowledge map interface.<br/>Click the image to browse the interactive map.</p>
