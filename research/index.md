@@ -11,7 +11,7 @@ layout: default
   </div>
 </div>
 
-By training I am an algal physiologist and field ecologist.  However I am also pretty handy with [hydrodynamic modelling]({{ './outfall_modelling/' | relative_url }}), [database design and interaction]({{ './localknowledge/' | relative_url }}) and I know my way around a couple of the [more useful]({{ '/code' | relative_url }}) programming languages.  Increasingly I am applying these skills to my own research projects and, alongside some great collaborators, I am getting involved with numerical ecology research in a range of different systems.  
+By training I am an algal physiologist and subtidal field ecologist. I also have experience with [hydrodynamic modelling]({{ './outfall_modelling/' | relative_url }}), [database design]({{ './localknowledge/' | relative_url }}) and I am proficient with [R, PHP and core web development languages]({{ '/code' | relative_url }}).  Alongside some great collaborators, I am involved with numerical ecology research in a range of different systems.  
 
 ## Research Interests
 

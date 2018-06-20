@@ -21,8 +21,8 @@ In contrast, *Anotrichium crinitum* has a high affinity for ammonium, a potentia
 
 ## Supervisors
 
-- [Catriona Hurd (Department of Botany,  Univeristy of Otago)][CLH]
-- [Christopher Hepburn (Department of Marine Science, Univeristy of Otago)][CDH]
+- [Catriona Hurd (Department of Botany,  University of Otago)][CLH]
+- [Christopher Hepburn (Department of Marine Science, University of Otago)][CDH]
 - [John Beardall (School of Biological Sciences, Monash University, Melbourne)][JB]
 
 
