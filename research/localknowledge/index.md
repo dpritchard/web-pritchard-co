@@ -7,11 +7,11 @@ layout: default
 ## About
 
 <div class="card float-sm-right mx-2" style="max-width: 400px">
-    <a href="http://db.pritchard.co/localknowledge/map/">
+    <a href="#">
         <img class="card-img-top" src="{{ "/images/LK_screenshot.png" | relative_url}}" alt="Screenshot of the Local Knowledge map interface.">
     </a>
     <div class="card-body">
-        <p class="card-text text-center">Screenshot of the Local Knowledge map interface.<br/>Click the image to browse the interactive map.</p>
+        <p class="card-text text-center">Screenshot of the Local Knowledge map interface.</p>
     </div>
 </div>
 
@@ -23,8 +23,10 @@ The current focus is on theses published at the University of Otago and
 research conducted in the Otago region. However, the database has been
 designed to scale to include more locations and information sources.
 
-Currently the only way to access the data is via a [proof-of-concept
-map](http://db.pritchard.co/localknowledge/map/).
+~~Currently the only way to access the data is via a [proof-of-concept
+map](http://db.pritchard.co/localknowledge/map/).~~
+
+**Note:** Currently (2018-08-08) the map interface is offline. I am working to modernise and clean up the data before making it available again. 
 
 ## People
 
@@ -41,29 +43,3 @@ initial data as part of a University of Otago Summer Student Bursary
 from December 2009 to February 2010.
 
 For more information about this project [contact Daniel]({{ '/contact' | relative_url }})
-
-Links
------
-
-[The Map](http://db.pritchard.co/localknowledge/map/)
-
-[Database Input](http://db.pritchard.co/localknowledge/input_publication.php) (login required)
-
-Other Links
------------
-[Simple Google Geocoding](http://itouchmap.com/latlong.html)
-
-[Alternative Google
-Geocoding](http://gmaps-samples.googlecode.com/svn/trunk/geocoder/singlegeocode.html)
-
-[Alternative Google Geocoding
-2](http://koti.mbnet.fi/ojalesa/exam/geotest.html)
-
-[South Island
-Charts](http://www.linz.govt.nz/hydro/charts/nz202-chart-catalogue/region/Page14.aspx)
-
-[WoRMS Database](http://www.marinespecies.org/index.php)
-
-[Algaebase](http://www.algaebase.org/)
-
-[FishBase](http://www.fishbase.org/search.php)
