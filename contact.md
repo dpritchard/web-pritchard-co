@@ -4,9 +4,9 @@ layout: default
 
 # Contact
 
-I am contracted to Te Rūnanga o Ngāi Tahu as Principal Scientist within the [Te Ao Tūroa][TAT] Mahinga Kai team.
+I am based in Dunedin (New Zealand) and I am currently contracted to Te Rūnanga o Ngāi Tahu as Principal Scientist within the [Te Ao Tūroa][TAT] Mahinga Kai team.
 
-I am based in Dunedin, and part of my job is to support research in the [Department of Marine Science][MARINE] and the [Te Tiaki Mahinga Kai][TMK] research group at the [University of Otago][UoO].  
+As part of the [Te Tiaki Mahinga Kai][TMK] partnership I work with staff and students to support research at the [Department of Marine Science][MARINE] at the [University of Otago][UoO].  
 
 [MARINE]: http://www.otago.ac.nz/marinescience
 [UoO]: http://www.otago.ac.nz
@@ -17,7 +17,7 @@ I am based in Dunedin, and part of my job is to support research in the [Departm
 
 daniel.pritchard<span style="display:none">.HOPEFULLY.HIDDEN</span>@ngaitahu.iwi.nz (Mahinga Kai Monitoring)
 
-daniel.pritchard<span style="display:none">.HOPEFULLY.HIDDEN</span>@otago.ac.nz (General Research) 
+daniel.pritchard<span style="display:none">.HOPEFULLY.HIDDEN</span>@otago.ac.nz (General Research)
 
 research<span style="display:none">.HOPEFULLY.HIDDEN</span>@glendevon.co.nz (Admin / Invoices / General Queries)
 
