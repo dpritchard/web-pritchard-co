@@ -4,6 +4,8 @@ layout: default
 
 # Publications
 
+Desmond, M.J., Pajusalu, L., **Pritchard, D.W.**, Stephens, T.A., Hepburn C.D. 2019. [Whole community estimates of macroalgal pigment concentration within two southern New Zealand kelp forests][desmond:2019]. *Journal of Phycology*, Accepted Manuscript.
+
 Schuchert, P., Kregting, L., **Pritchard D. W.**, Savidge G., Elsäßer B. 2018. [Using Coupled Hydrodynamic Biogeochemical Models to Predict the Effects of Tidal Turbine Arrays on Phytoplankton Dynamics][schuchert:2018]. Journal of Marine Science and Engineering, 6:2 58.
 
 **Pritchard, D. W.**, Paterson, R. A., Bovy, H. C. and Barrios-O'Neill, D.  2017.  [FRAIR: an R package for fitting and comparing consumer functional responses][pritchard:2017].  *Methods in Ecology and Evolution*, 8:11 1528-1534.
@@ -40,6 +42,7 @@ Kramer, S. C., Piggott, M. D., Hill, J., Kregting, L., **Pritchard, D.**, Elsä�
 # PhD Thesis
 The ecophysiology of the deep-water macroalga *Anotrichium crinitum* (Kützing) Baldock.  November 2011.  PhD Thesis, University of Otago, Dunedin, New Zealand. [Abstract available online](http://hdl.handle.net/10523/1955). Full text available [on request]({{ '../contact.html' | relative_url }}).
 
+[desmond:2019]: https://doi.org/10.1111/jpy.12884
 [schuchert:2018]: https://doi.org/10.3390/jmse6020058
 [pritchard:2017]: http://dx.doi.org/10.1111/2041-210X.12784
 [desmond:2017]: http://dx.doi.org/10.1007/s11120-017-0381-z
