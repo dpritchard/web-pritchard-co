@@ -4,9 +4,11 @@ layout: default
 
 # Publications
 
-Desmond, M.J., Pajusalu, L., **Pritchard, D.W.**, Stephens, T.A., Hepburn C.D. 2019. [Whole community estimates of macroalgal pigment concentration within two southern New Zealand kelp forests][desmond:2019]. *Journal of Phycology*, Accepted Manuscript.
+Hepburn C.D., Jackson. A.M., **Pritchard, D.W.**, Scott, N., Vanderburg, P.H., Flack, B. 2019. [Challenges to traditional management of connected ecosystems within a fractured regulatory landscape: A case study from southern New Zealand][hepburn:2019]. *Aquatic Conservation: Marine and Freshwater Ecosystems*, Accepted Manuscript.
 
-Schuchert, P., Kregting, L., **Pritchard D. W.**, Savidge G., Elsäßer B. 2018. [Using Coupled Hydrodynamic Biogeochemical Models to Predict the Effects of Tidal Turbine Arrays on Phytoplankton Dynamics][schuchert:2018]. Journal of Marine Science and Engineering, 6:2 58.
+Desmond, M.J., Pajusalu, L., **Pritchard, D.W.**, Stephens, T.A., Hepburn, C.D. 2019. [Whole community estimates of macroalgal pigment concentration within two southern New Zealand kelp forests][desmond:2019]. *Journal of Phycology*, Accepted Manuscript.
+
+Schuchert, P., Kregting, L., **Pritchard, D. W.**, Savidge G., Elsäßer, B. 2018. [Using Coupled Hydrodynamic Biogeochemical Models to Predict the Effects of Tidal Turbine Arrays on Phytoplankton Dynamics][schuchert:2018]. Journal of Marine Science and Engineering, 6:2 58.
 
 **Pritchard, D. W.**, Paterson, R. A., Bovy, H. C. and Barrios-O'Neill, D.  2017.  [FRAIR: an R package for fitting and comparing consumer functional responses][pritchard:2017].  *Methods in Ecology and Evolution*, 8:11 1528-1534.
 
@@ -42,19 +44,20 @@ Kramer, S. C., Piggott, M. D., Hill, J., Kregting, L., **Pritchard, D.**, Elsä�
 # PhD Thesis
 The ecophysiology of the deep-water macroalga *Anotrichium crinitum* (Kützing) Baldock.  November 2011.  PhD Thesis, University of Otago, Dunedin, New Zealand. [Abstract available online](http://hdl.handle.net/10523/1955). Full text available [on request]({{ '../contact.html' | relative_url }}).
 
+[hepburn:2019]: https://doi.org/10.1002/aqc.3152
 [desmond:2019]: https://doi.org/10.1111/jpy.12884
 [schuchert:2018]: https://doi.org/10.3390/jmse6020058
-[pritchard:2017]: http://dx.doi.org/10.1111/2041-210X.12784
-[desmond:2017]: http://dx.doi.org/10.1007/s11120-017-0381-z
-[brownstein:2015:235]: http://dx.doi.org/10.1556/168.2015.16.2.11
-[desmond:2015]: http://dx.doi.org/10.1371/journal.pone.0123676
-[pritchard:2015:277]: http://dx.doi.org/10.1111/jpy.12272  
-[paterson:2015:84]: http://dx.doi.org/10.1111/1365-2656.12292
-[paterson:2013:ab]: http://dx.doi.org/10.1016/j.anbehav.2013.09.036
-[pritchard:2013:49]: http://dx.doi.org/10.1111/jpy.12093  
-[pritchard:2013:290]: http://dx.doi.org/10.1016/j.marpolbul.2013.09.046
-[cornwall:2012]: http://dx.doi.org/10.1111/j.1529-8817.2011.01085.x  
-[hepburn:2011]: http://dx.doi.org/10.1111/j.1365-2486.2011.02411.x  
-[richards:2011]: http://dx.doi.org/10.3354/ab00349  
-[brownstein:2014:411]: http://dx.doi.org/10.1890/12-1982.1  
-[savidge:2014:book]: http://dx.doi.org/10.1007/978-94-017-8002-5_12  
+[pritchard:2017]: https://doi.org/10.1111/2041-210X.12784
+[desmond:2017]: https://doi.org/10.1007/s11120-017-0381-z
+[brownstein:2015:235]: https://doi.org/10.1556/168.2015.16.2.11
+[desmond:2015]: https://doi.org/10.1371/journal.pone.0123676
+[pritchard:2015:277]: https://doi.org/10.1111/jpy.12272  
+[paterson:2015:84]: https://doi.org/10.1111/1365-2656.12292
+[paterson:2013:ab]: https://doi.org/10.1016/j.anbehav.2013.09.036
+[pritchard:2013:49]: https://doi.org/10.1111/jpy.12093  
+[pritchard:2013:290]: https://doi.org/10.1016/j.marpolbul.2013.09.046
+[cornwall:2012]: https://doi.org/10.1111/j.1529-8817.2011.01085.x  
+[hepburn:2011]: https://doi.org/10.1111/j.1365-2486.2011.02411.x  
+[richards:2011]: https://doi.org/10.3354/ab00349  
+[brownstein:2014:411]: https://doi.org/10.1890/12-1982.1  
+[savidge:2014:book]: https://doi.org/10.1007/978-94-017-8002-5_12  
