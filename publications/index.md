@@ -1,12 +1,13 @@
 ---
 layout: default
+description: An up-to-date list of manuscripts published by Dr Daniel Pritchard. Mostly about seaweed, customary fisheries management and numerical methods in ecology.
 ---
 
 # Publications
 
 Hepburn C.D., Jackson. A.M., **Pritchard, D.W.**, Scott, N., Vanderburg, P.H., Flack, B. 2019. [Challenges to traditional management of connected ecosystems within a fractured regulatory landscape: A case study from southern New Zealand][hepburn:2019]. *Aquatic Conservation: Marine and Freshwater Ecosystems*, Accepted Manuscript.
 
-Desmond, M.J., Pajusalu, L., **Pritchard, D.W.**, Stephens, T.A., Hepburn, C.D. 2019. [Whole community estimates of macroalgal pigment concentration within two southern New Zealand kelp forests][desmond:2019]. *Journal of Phycology*, Accepted Manuscript.
+Desmond, M.J., Pajusalu, L., **Pritchard, D.W.**, Stephens, T.A., Hepburn, C.D. 2019. [Whole community estimates of macroalgal pigment concentration within two southern New Zealand kelp forests][desmond:2019]. *Journal of Phycology*, 55:4 936-947.
 
 Schuchert, P., Kregting, L., **Pritchard, D. W.**, Savidge G., Elsäßer, B. 2018. [Using Coupled Hydrodynamic Biogeochemical Models to Predict the Effects of Tidal Turbine Arrays on Phytoplankton Dynamics][schuchert:2018]. Journal of Marine Science and Engineering, 6:2 58.
 

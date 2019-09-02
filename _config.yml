@@ -16,17 +16,18 @@
 title: pritchard.co
 email: ""
 description: >- # this means to ignore newlines until "baseurl:"
-  The personal homepage of Daniel Pritchard
+  The personal homepage of Dr Daniel Pritchard
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: jekyllrb
-#github_username:  jekyll
+twitter_username: dpritchardnz
+github_username:  dpritchard
 
 repository: "dpritchard/web-pritchard-co"
 
 # Build settings
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

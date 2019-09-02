@@ -1,5 +1,6 @@
 ---
 layout: default
+description: Research projects involving Dr Daniel Pritchard. Mostly about seaweed, customary fisheries management and numerical methods in ecology.
 ---
 
 # Research
