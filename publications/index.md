@@ -5,7 +5,9 @@ description: An up-to-date list of manuscripts published by Dr Daniel Pritchard.
 
 # Publications
 
-Garbary D.J., D’Archino R., Flack B., Hepburn C.D., Nelson W.A., **Pritchard, D.W.**, Sutherland J.E. 2019. [First record of Bonnemaisonia hamifera (Bonnemaisoniales, Rhodophyta) in the South Pacific, from the South Island of New Zealand][garbary:2019]. *New Zealand Journal of Marine and Freshwater Research*, Accepted Manuscript.
+Desmond, M.J. **Pritchard, D.W.**, Hurd, C.L., Richards, D.K., Schweikert, K., Wing, S., Hepburn, C.D. 2019. [Superior photosynthetic performance of the invasive kelp *Undaria pinnatifida* may contribute to continued range expansion in a wave-exposed kelp forest community][desmond:2019]. *Marine Biology*, Accepted Manuscript.
+
+Garbary, D.J., D’Archino, R., Flack, B., Hepburn, C.D., Nelson, W.A., **Pritchard, D.W.**, Sutherland, J.E. 2019. [First record of Bonnemaisonia hamifera (Bonnemaisoniales, Rhodophyta) in the South Pacific, from the South Island of New Zealand][garbary:2019]. *New Zealand Journal of Marine and Freshwater Research*, Accepted Manuscript.
 
 Hepburn C.D., Jackson. A.M., **Pritchard, D.W.**, Scott, N., Vanderburg, P.H., Flack, B. 2019. [Challenges to traditional management of connected ecosystems within a fractured regulatory landscape: A case study from southern New Zealand][hepburn:2019:1535]. *Aquatic Conservation: Marine and Freshwater Ecosystems*, 29:9 1535-1546.
 
@@ -52,14 +54,12 @@ Hepburn C.D., Russell P., Smith A.K., **Pritchard D.W.**, Leahy E.O., Coyle L., 
 
 Albert et al. 2019 [Could ocean acidification influence epiphytism? A comparison of carbon-use strategies between Fucus vesiculosus and its epiphytes in the Baltic Sea][albert:2019]. *Journal of Applied Phycology*, Accepted Manuscript.
 
-Desmond et al. 2019. [Superior photosynthetic performance of the invasive kelp Undaria pinnatifida may contribute to continued range expansion in a wave-exposed kelp forest community][desmond:2019]. *Marine Biology*, Accepted Manuscript.
-
 Pajusalu et al. 2019. [Ocean acidification may threaten a unique seaweed community and associated industry in the Baltic Sea][pajusalu:2019]. *Journal of Applied Phycology*, Accepted Manuscript.
 -->
 
 [hepburn:2019]: #
 [albert:2019]: #
-[desmond:2019]: #
+[desmond:2019]: https://doi.org/10.1007/s00227-019-3593-2
 [pajusalu:2019]: #
 [garbary:2019]: https://doi.org/10.1080/00288330.2019.1661260
 [hepburn:2019:1535]: https://doi.org/10.1002/aqc.3152
