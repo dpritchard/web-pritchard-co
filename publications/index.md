@@ -5,11 +5,15 @@ description: An up-to-date list of manuscripts published by Dr Daniel Pritchard.
 
 # Publications
 
+Albert, G., Hepburn, C.D., Pajusalu, L., Paalme, T., **Pritchard, D.W.**, Martin, G. 2019 [Could ocean acidification influence epiphytism? A comparison of carbon-use strategies between Fucus vesiculosus and its epiphytes in the Baltic Sea][albert:2019]. *Journal of Applied Phycology*, Accepted Manuscript.
+
+Pajusalu, L., Albert, G., Fachon, E., Hepburn, C.D., Kotta, J., Liversage, K., Paalme, T., Peterson, A., **Pritchard, D.W.**, Põllumäe, A., Torn, K., Martin, G. 2019. [Ocean acidification may threaten a unique seaweed community and associated industry in the Baltic Sea][pajusalu:2019]. *Journal of Applied Phycology*, Accepted Manuscript.
+
 Desmond, M.J. **Pritchard, D.W.**, Hurd, C.L., Richards, D.K., Schweikert, K., Wing, S., Hepburn, C.D. 2019. [Superior photosynthetic performance of the invasive kelp *Undaria pinnatifida* may contribute to continued range expansion in a wave-exposed kelp forest community][desmond:2019]. *Marine Biology*, Accepted Manuscript.
 
 Garbary, D.J., D’Archino, R., Flack, B., Hepburn, C.D., Nelson, W.A., **Pritchard, D.W.**, Sutherland, J.E. 2019. [First record of Bonnemaisonia hamifera (Bonnemaisoniales, Rhodophyta) in the South Pacific, from the South Island of New Zealand][garbary:2019]. *New Zealand Journal of Marine and Freshwater Research*, Accepted Manuscript.
 
-Hepburn C.D., Jackson. A.M., **Pritchard, D.W.**, Scott, N., Vanderburg, P.H., Flack, B. 2019. [Challenges to traditional management of connected ecosystems within a fractured regulatory landscape: A case study from southern New Zealand][hepburn:2019:1535]. *Aquatic Conservation: Marine and Freshwater Ecosystems*, 29:9 1535-1546.
+Hepburn, C.D., Jackson, A.M., **Pritchard, D.W.**, Scott, N., Vanderburg, P.H., Flack, B. 2019. [Challenges to traditional management of connected ecosystems within a fractured regulatory landscape: A case study from southern New Zealand][hepburn:2019:1535]. *Aquatic Conservation: Marine and Freshwater Ecosystems*, 29:9 1535-1546.
 
 Desmond, M.J., Pajusalu, L., **Pritchard, D.W.**, Stephens, T.A., Hepburn, C.D. 2019. [Whole community estimates of macroalgal pigment concentration within two southern New Zealand kelp forests][desmond:2019:936]. *Journal of Phycology*, 55:4 936-947.
 
@@ -51,16 +55,12 @@ The ecophysiology of the deep-water macroalga *Anotrichium crinitum* (Kützing) 
 
 <!-- 
 Hepburn C.D., Russell P., Smith A.K., **Pritchard D.W.**, Leahy E.O., Coyle L., Flack B., Russell K., Vanderburg P.H., Dale M., Jackson A.M. 2019. [Teaching the next generation of scientists to support communities in their restoration of ecosystems and ways of life][hepburn:2019]. *New Zealand Science Review*, 75:4.  
-
-Albert et al. 2019 [Could ocean acidification influence epiphytism? A comparison of carbon-use strategies between Fucus vesiculosus and its epiphytes in the Baltic Sea][albert:2019]. *Journal of Applied Phycology*, Accepted Manuscript.
-
-Pajusalu et al. 2019. [Ocean acidification may threaten a unique seaweed community and associated industry in the Baltic Sea][pajusalu:2019]. *Journal of Applied Phycology*, Accepted Manuscript.
 -->
 
 [hepburn:2019]: #
-[albert:2019]: #
+[albert:2019]: https://doi.org/10.1007/s10811-019-01953-z
 [desmond:2019]: https://doi.org/10.1007/s00227-019-3593-2
-[pajusalu:2019]: #
+[pajusalu:2019]: https://doi.org/10.1007/s10811-019-01935-1
 [garbary:2019]: https://doi.org/10.1080/00288330.2019.1661260
 [hepburn:2019:1535]: https://doi.org/10.1002/aqc.3152
 [desmond:2019:936]: https://doi.org/10.1111/jpy.12884
