@@ -39,9 +39,9 @@ Use my @pritchard.co address or mobile number, above
 - [Open Researcher ID][orcid]   
 
 [github]: https://github.com/dpritchard
-[orcid]: http://orcid.org/0000-0001-8335-5971  
+[orcid]: https://orcid.org/0000-0001-8335-5971  
 [twitter]: https://twitter.com/dpritchardnz
-[gs]: http://scholar.google.co.nz/citations?user=91HSgNoAAAAJ
+[gs]: https://scholar.google.co.nz/citations?user=91HSgNoAAAAJ
 
 [QUB]: http://www.qub.ac.uk/ "Queens University Belfast"
 [MRG]: http://www.qub.ac.uk/research-centres/eerc/ResearchGroups/MarineResearchGroup/

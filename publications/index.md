@@ -5,13 +5,13 @@ description: An up-to-date list of manuscripts published by Dr Daniel Pritchard.
 
 # Publications
 
-Albert, G., Hepburn, C.D., Pajusalu, L., Paalme, T., **Pritchard, D.W.**, Martin, G. 2019 [Could ocean acidification influence epiphytism? A comparison of carbon-use strategies between Fucus vesiculosus and its epiphytes in the Baltic Sea][albert:2019]. *Journal of Applied Phycology*, Accepted Manuscript.
+Albert, G., Hepburn, C.D., Pajusalu, L., Paalme, T., **Pritchard, D.W.**, Martin, G. 2019. [Could ocean acidification influence epiphytism? A comparison of carbon-use strategies between Fucus vesiculosus and its epiphytes in the Baltic Sea][albert:2019]. *Journal of Applied Phycology*, Accepted Manuscript.
 
 Pajusalu, L., Albert, G., Fachon, E., Hepburn, C.D., Kotta, J., Liversage, K., Paalme, T., Peterson, A., **Pritchard, D.W.**, Põllumäe, A., Torn, K., Martin, G. 2019. [Ocean acidification may threaten a unique seaweed community and associated industry in the Baltic Sea][pajusalu:2019]. *Journal of Applied Phycology*, Accepted Manuscript.
 
-Desmond, M.J. **Pritchard, D.W.**, Hurd, C.L., Richards, D.K., Schweikert, K., Wing, S., Hepburn, C.D. 2019. [Superior photosynthetic performance of the invasive kelp *Undaria pinnatifida* may contribute to continued range expansion in a wave-exposed kelp forest community][desmond:2019]. *Marine Biology*, Accepted Manuscript.
-
 Garbary, D.J., D’Archino, R., Flack, B., Hepburn, C.D., Nelson, W.A., **Pritchard, D.W.**, Sutherland, J.E. 2019. [First record of Bonnemaisonia hamifera (Bonnemaisoniales, Rhodophyta) in the South Pacific, from the South Island of New Zealand][garbary:2019]. *New Zealand Journal of Marine and Freshwater Research*, Accepted Manuscript.
+
+Desmond, M.J., **Pritchard, D.W.**, Hurd, C.L., Richards, D.K., Schweikert, K., Wing, S., Hepburn, C.D. 2019. [Superior photosynthetic performance of the invasive kelp *Undaria pinnatifida* may contribute to continued range expansion in a wave-exposed kelp forest community][desmond:2019]. *Marine Biology*, 166:139.
 
 Hepburn, C.D., Jackson, A.M., **Pritchard, D.W.**, Scott, N., Vanderburg, P.H., Flack, B. 2019. [Challenges to traditional management of connected ecosystems within a fractured regulatory landscape: A case study from southern New Zealand][hepburn:2019:1535]. *Aquatic Conservation: Marine and Freshwater Ecosystems*, 29:9 1535-1546.
 
@@ -53,7 +53,7 @@ Kramer, S. C., Piggott, M. D., Hill, J., Kregting, L., **Pritchard, D.**, Elsä�
 # PhD Thesis
 The ecophysiology of the deep-water macroalga *Anotrichium crinitum* (Kützing) Baldock.  November 2011.  PhD Thesis, University of Otago, Dunedin, New Zealand. [Abstract available online](http://hdl.handle.net/10523/1955). Full text available [on request]({{ '../contact.html' | relative_url }}).
 
-<!-- 
+<!--
 Hepburn C.D., Russell P., Smith A.K., **Pritchard D.W.**, Leahy E.O., Coyle L., Flack B., Russell K., Vanderburg P.H., Dale M., Jackson A.M. 2019. [Teaching the next generation of scientists to support communities in their restoration of ecosystems and ways of life][hepburn:2019]. *New Zealand Science Review*, 75:4.  
 -->
 
