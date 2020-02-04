@@ -5,6 +5,10 @@ description: An up-to-date list of manuscripts published by Dr Daniel Pritchard.
 
 # Publications
 
+Hepburn C.D., Russell P., Smith A.K., **Pritchard D.W.**, Leahy E.O., Coyle L., Flack B., Russell K., Vanderburg P.H., Dale M., Jackson A.M. 2019. [Teaching the next generation of scientists to support communities in their restoration of ecosystems and ways of life][hepburn:2019]. *New Zealand Science Review*, 75:4.  
+
+Nguyen, H., **Pritchard, D.W.**, Hepburn, C.D. 2019. [Nitrogen and phosphorus ecophysiology of coralline algae][nguyen:2020]. *Journal of Applied Phycology*, Accepted Manuscript.
+
 Albert, G., Hepburn, C.D., Pajusalu, L., Paalme, T., **Pritchard, D.W.**, Martin, G. 2019. [Could ocean acidification influence epiphytism? A comparison of carbon-use strategies between Fucus vesiculosus and its epiphytes in the Baltic Sea][albert:2019]. *Journal of Applied Phycology*, Accepted Manuscript.
 
 Pajusalu, L., Albert, G., Fachon, E., Hepburn, C.D., Kotta, J., Liversage, K., Paalme, T., Peterson, A., **Pritchard, D.W.**, Põllumäe, A., Torn, K., Martin, G. 2019. [Ocean acidification may threaten a unique seaweed community and associated industry in the Baltic Sea][pajusalu:2019]. *Journal of Applied Phycology*, Accepted Manuscript.
@@ -54,10 +58,11 @@ Kramer, S. C., Piggott, M. D., Hill, J., Kregting, L., **Pritchard, D.**, Elsä�
 The ecophysiology of the deep-water macroalga *Anotrichium crinitum* (Kützing) Baldock.  November 2011.  PhD Thesis, University of Otago, Dunedin, New Zealand. [Abstract available online](http://hdl.handle.net/10523/1955). Full text available [on request]({{ '../contact.html' | relative_url }}).
 
 <!--
-Hepburn C.D., Russell P., Smith A.K., **Pritchard D.W.**, Leahy E.O., Coyle L., Flack B., Russell K., Vanderburg P.H., Dale M., Jackson A.M. 2019. [Teaching the next generation of scientists to support communities in their restoration of ecosystems and ways of life][hepburn:2019]. *New Zealand Science Review*, 75:4.  
+
 -->
 
-[hepburn:2019]: #
+[nguyen:2020]: https://doi.org/10.1007/s10811-019-02019-w
+[hepburn:2019]: https://scientists.org.nz/resources/Documents/NZSR/NZSR75(4).pdf
 [albert:2019]: https://doi.org/10.1007/s10811-019-01953-z
 [desmond:2019]: https://doi.org/10.1007/s00227-019-3593-2
 [pajusalu:2019]: https://doi.org/10.1007/s10811-019-01935-1
