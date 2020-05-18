@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <meta property="og:locale" content="en_US">
+        <title>pritchard.co</title>
+        <meta property="og:title" content="pritchard.co">
+        <meta name="description" content="">
+        <meta property="og:description" content="">
+        <meta name="referrer" content="always">
+        <link rel="canonical" href="/code/otago_ezproxy_bookmarklet">
+        <meta property="og:url" content="/code/otago_ezproxy_bookmarklet">
+        <meta property="og:site_name" content="pritchard.co">
+        <link rel="stylesheet" href="/assets/build/css/main.css?id=40681fe7c3e0cc265599">
+    </head>
+
+<body class="py-5">
+    <div class="container page-content">
+        <div class="row">
+            <aside class="col-md-3 col-12">
+                <nav class="flex-md-column flex-row navbar-light align-items-start">
+      <a class="navbar-brand" rel="author" href="/">pritchard.co</a>
+      <div>
+            <ul class="flex-md-column flex-row navbar-nav w-100 justify-content-between">
+                  <li class="nav-item">
+                  <a class="nav-link" href="/research/">Research</a>
+                  </li>
+                  <li class="nav-item">
+                  <a class="nav-link" href="/contact">Contact</a>
+                  </li>
+                  <li class="nav-item">
+                  <a class="nav-link" href="/publications/">Publications</a>
+                  </li>
+                  <li class="nav-item">
+                  <a class="nav-link" href="/code/">Code</a>
+                  </li>
+            </ul>
+      </div>
+</nav>            </aside>
+            <div class="col-md">
+                <h1>Otago EzProxy Bookmarklet</h1>
+
+<p>Designed to take the frustration out of getting to the "full text" version of journal articles that the University has a paid subscription to.</p>
+
+<p>This bookmarklet will take you to the University of Otago EzProxy login page with your current location pre-appended to the EzProxy login script. Once you have logged in, you will be returned to the page that you were on when you first clicked the bookmarklet. This means that if the University has access to the article you are looking at (via the provider you happened to be viewing it with) then the "full text" options (including PDFs) should be available to you.</p>
+
+<p>This bookmarklet was first developed in 2009. It has worked with almost no modification since then.</p>
+
+<h2>The Bookmarklet</h2>
+
+<p><a href="http://www.google.co.nz/search?q=define:Bookmarklet">A bookmarklet</a> is a small piece of JavaScript code stored as a URL within a bookmark. All you really need to know is that when you click it, stuff happens. This is it:</p>
+
+<p><a href="javascript:var%20str=location.href;location='https://ezproxy.otago.ac.nz/login?url='+str.replace('?CRETRY=1&SRETRY=0','');"><img src="./otago_ezproxy.png" alt="Otago EzProxy" /></a></p>
+
+<h2>Instructions</h2>
+
+<ol>
+<li>You will need to add the bookmarklet to your bookmark list. Clicking
+the bookmarklet on this page directly will not have the desired
+outcome.</li>
+<li><p>The exact procedure will vary according to the browser you are
+using.</p>
+
+<ul>
+<li><p>In Safari (on the Mac) you can just "drag-n-drop" the
+bookmarklet to your "Bookmarks Bar" (press shift + ⌘ + B to show
+the bookmarks bar).</p>
+
+<p><img src="./safari_howto.png" alt="Draging-and-droping in Safari" /></p></li>
+<li><p>If you are using some other browser you might be able to right
+click and choose "Save As Bookmark", "Bookmark This Link" or
+something similar.</p></li>
+</ul></li>
+<li>When you are at a page and you want access to the full text: Just
+click the bookmarklet.</li>
+<li>Hope and pray the University is subscribed to the journal via the
+provider you happened to be browsing.</li>
+</ol>
+
+<p>Any questions, comments or requests please feel free to <a href="/contact">contact
+me</a>.</p>
+
+<h2>Development</h2>
+
+<p><strong>15/05/2010, Version 0.1</strong></p>
+
+<p>Initial attempt. Currently strips the ?CRETRY=1&amp;SRETRY=0 that is
+appended by some (all?) Wiley InterScience pages if you arrive there via
+an RSS feed.</p>
+
+<pre><code>javascript:
+    var str=location.href;
+    location='https://ezproxy.otago.ac.nz/login?
+    url='+str.replace('?CRETRY=1&amp;SRETRY=0','')
+;
+</code></pre>
+            </div>
+            
+        </div>
+    </div>
+</body>
+</html>
