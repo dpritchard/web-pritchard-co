@@ -1,5 +1,7 @@
 <nav class="flex-md-column flex-row navbar-light align-items-start">
-      <a class="navbar-brand" rel="author" href="/">pritchard.co</a>
+      <div class="py-2">
+            <a class="navbar-brand fw-bold" rel="author" href="/">pritchard.co</a>
+      </div>
       <div>
             <ul class="flex-md-column flex-row navbar-nav w-100 justify-content-between">
                   <li class="nav-item">

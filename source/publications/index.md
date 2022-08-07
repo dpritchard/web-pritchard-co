@@ -7,13 +7,23 @@ title: Publications
 
 # Publications
 
+Nguyen, H.T.T., **Pritchard, D.W.**, Desmond, M.J., Hepburn, C.D. 2022. [Coralline photosynthetic physiology across a steep light gradient][nguyen:2022]. *Photosynthesis Research*
+
+Gnanalingam G., **Pritchard, D.W.**, Richards D.K., Subritzky P., Flack B., Hepburn, C.D. 2021. [Local management to support local fisheries: Rāhui (temporary closure) and bag limits for blackfoot abalone (*Haliotis iris*) in southern New Zealand][gnanalingam:2021]. *Aquatic Conservation*, 31:9, 2320-2333. 
+
+Bennett-Jones L., Gnanalingam G., Flack B., Scott, N., **Pritchard, D.W.**, Moller, H., Hepburn C.D. 2021. [Translocation of black foot pāua (*Haliotis iris*) in a customary fishery management area: transformation from top-down management to kaitiakitanga (local guardianship) of a cultural keystone][bennett-jones:2021]. *Pacific Conservation Biology*, 27, 402-417. 
+
+Bagnaro, A., Baltar, F., Brownstein, G., Lee W.G., Morales, S.E., **Pritchard, D.W.**, Hepburn C.D. 2020. [Reducing the arbitrary: fuzzy detection of microbial ecotones and ecosystems – focus on the pelagic environment][bagnaro:2020]. *Environmental Microbiome* 15:16.
+
+Twist, B.A., Kluibenschedl, A., **Pritchard, D.W.**, Desmond, M.J., D’Archino, R., Nelson, W.A., Hepburn, C.D. 2020. [Biomass and species richness relationships in macroalgal communities that span intertidal and subtidal zones][twist:2020]. *Marine Ecology Progress Series*, 654, 67-78.
+
+Nguyen, H.T.T., **Pritchard, D.W.**, Hepburn, C.D. 2020. [Nitrogen and phosphorus ecophysiology of coralline algae][nguyen:2020]. *Journal of Applied Phycology*, 32:4, 2583-2597.
+
+Albert, G., Hepburn, C.D., Pajusalu, L., Paalme, T., **Pritchard, D.W.**, Martin, G. 2020. [Could ocean acidification influence epiphytism? A comparison of carbon-use strategies between Fucus vesiculosus and its epiphytes in the Baltic Sea][albert:2019]. *Journal of Applied Phycology*, 32:4, 2479–2487
+
+Pajusalu, L., Albert, G., Fachon, E., Hepburn, C.D., Kotta, J., Liversage, K., Paalme, T., Peterson, A., **Pritchard, D.W.**, Põllumäe, A., Torn, K., Martin, G. 2020. [Ocean acidification may threaten a unique seaweed community and associated industry in the Baltic Sea][pajusalu:2019]. *Journal of Applied Phycology*, 32:4, 2469-2478.
+
 Hepburn C.D., Russell P., Smith A.K., **Pritchard D.W.**, Leahy E.O., Coyle L., Flack B., Russell K., Vanderburg P.H., Dale M., Jackson A.M. 2019. [Teaching the next generation of scientists to support communities in their restoration of ecosystems and ways of life][hepburn:2019]. *New Zealand Science Review*, 75:4.  
-
-Nguyen, H., **Pritchard, D.W.**, Hepburn, C.D. 2019. [Nitrogen and phosphorus ecophysiology of coralline algae][nguyen:2020]. *Journal of Applied Phycology*, Accepted Manuscript.
-
-Albert, G., Hepburn, C.D., Pajusalu, L., Paalme, T., **Pritchard, D.W.**, Martin, G. 2019. [Could ocean acidification influence epiphytism? A comparison of carbon-use strategies between Fucus vesiculosus and its epiphytes in the Baltic Sea][albert:2019]. *Journal of Applied Phycology*, Accepted Manuscript.
-
-Pajusalu, L., Albert, G., Fachon, E., Hepburn, C.D., Kotta, J., Liversage, K., Paalme, T., Peterson, A., **Pritchard, D.W.**, Põllumäe, A., Torn, K., Martin, G. 2019. [Ocean acidification may threaten a unique seaweed community and associated industry in the Baltic Sea][pajusalu:2019]. *Journal of Applied Phycology*, Accepted Manuscript.
 
 Garbary, D.J., D’Archino, R., Flack, B., Hepburn, C.D., Nelson, W.A., **Pritchard, D.W.**, Sutherland, J.E. 2019. [First record of Bonnemaisonia hamifera (Bonnemaisoniales, Rhodophyta) in the South Pacific, from the South Island of New Zealand][garbary:2019]. *New Zealand Journal of Marine and Freshwater Research*, 54:2, 167-176.
 
@@ -63,6 +73,11 @@ The ecophysiology of the deep-water macroalga *Anotrichium crinitum* (Kützing) 
 
 -->
 
+[nguyen:2022]: https://doi.org/10.1007/s11120-022-00899-7
+[gnanalingam:2021]: https://doi.org/10.1002/aqc.3662
+[bennett-jones:2021]: https://doi.org/10.1071/PC20058
+[bagnaro:2020]: https://doi.org/10.1186/s40793-020-00363-w
+[twist:2020]: https://doi.org/10.3354/meps13496 
 [nguyen:2020]: https://doi.org/10.1007/s10811-019-02019-w
 [hepburn:2019]: https://scientists.org.nz/resources/Documents/NZSR/NZSR75(4).pdf
 [albert:2019]: https://doi.org/10.1007/s10811-019-01953-z

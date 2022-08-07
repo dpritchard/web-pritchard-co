@@ -4,7 +4,7 @@ section: body
 description: The personal homepage of Dr Daniel Pritchard
 ---
 
-<div class="card float-sm-right mx-2" style="max-width: 15rem;">
+<div class="card float-sm-end mx-2" style="max-width: 15rem;">
   <img class="card-img-top" src="/assets/images/mug_shot.jpg" alt="June 2015">
   <div class="card-body">
     <p class="card-text text-center">June 2015</p>

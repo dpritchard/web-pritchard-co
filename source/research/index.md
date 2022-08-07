@@ -7,7 +7,7 @@ title: Research
 
 # Research
 
-<div class="card float-sm-right mx-2" style="max-width: 200px;">
+<div class="card float-sm-end mx-2" style="max-width: 200px;">
   <img class="card-img-top" src="/assets/images/DSCN3795_200px.jpg" alt="Collecting <em>Halopteris novae-zelandiae</em>.">
   <div class="card-body">
     <p class="card-text text-center">Collecting <em>Halopteris novae-zelandiae</em> from a typical low light rocky reef in Otago, New Zealand (18/12/2006).</p>
@@ -25,14 +25,18 @@ By training I am an algal physiologist and subtidal field ecologist. I also have
 
 ## Current Research / Role
 
-### Scientific support for Tangata Tiaki/Kaitiaki and CPA Managers
-Currently New Zealand has a significant community investment in locally focused environmental management groups, including management of fisheries via Customary Protection Areas (CPAs). To gain support for local management decisions based on mātauranga (traditional ecological knowledge), local and customary management groups need support from scientists. Although the New Zealand CPA network covers an area larger than the mainland New Zealand Marine Protected Area network, very few research programmes are specifically designed to support them.
-
-The first phase of this project ran from April 2014 to June 2016, under the title *Interweaving mātauranga and science through online tools*. It was funded by the Ministry of Business, Innovation, and Employment and Te Rūnanga o Ngāi Tahu through the Vision Mātauranga Capability Funding Scheme. It supported capability building and baseline assessments within individual CPA management teams and the communities they support. It was the precursor to my current role, where I am now part of a team alongside other Vision Mātauranga Capability Fund placement fellows and full-time Te Rūnanga o Ngāi Tahu staff. We have a long term (5 - 10 year) vision to deliver high quality science and baseline monitoring support to Tangata Tiaki/Kaitiaki and CPA managers throughout the Ngāi Tahu Takiwā.   
-
-For more information, please visit the [Takiwā 3.0 website][sot3] or [contact me directly](/contact)
+I have recently started a [new role](/contact) with the University of Otago. I will be continuing a number of previous projects (including [TMK partnership][TMK] projects, see below) and look forward to starting some new projects in 2022. 
 
 ## Past Projects
+
+### Scientific support for Tangata Tiaki/Kaitiaki and CPA Managers  
+New Zealand has a significant community investment in locally focused environmental management groups, including management of fisheries via Customary Protection Areas (CPAs). To gain support for local management decisions based on mātauranga (traditional ecological knowledge), local and customary management groups need support from scientists. Although the New Zealand CPA network covers an area larger than the mainland New Zealand Marine Protected Area network, very few research programmes are specifically designed to support them.
+
+The first phase of this project ran from April 2014 to June 2016, under the title *Interweaving mātauranga and science through online tools*. It was funded by the Ministry of Business, Innovation, and Employment and Te Rūnanga o Ngāi Tahu through the Vision Mātauranga Capability Funding Scheme. It supported capability building and baseline assessments within individual CPA management teams and the communities they support. 
+
+This work grew into a full-time role, where I was part of the [Te Tiaki Mahinga Kai][TMK] partnership alongside other staff and students at the University of Otago and staff at Te Rūnanga o Ngāi Tahu. In that role, we delivered high quality science and baseline monitoring support to Tangata Tiaki/Kaitiaki and CPA managers throughout the Ngāi Tahu Takiwā.   
+
+For more information, please [contact me directly](/contact)
 
 ### The ecological impact of large-scale arrays of marine renewable energy converters (2013 - 2014)
 This [EPSRC][EPSRC] funded project in collaboration with [Imperial College London][ICL] and [CEFAS][CEFAS] will use a suite of modelling tools (both commercially available and open-source software) to assess the potential changes in ecosystem function as a result of the installation of large arrays of wave and tidal energy converters.  
@@ -55,10 +59,10 @@ A database and spatial visualisation project which aims to collate information a
   </div>
 </div>
 
-[sot3]: http://www.takiwa.org.nz
 [CLH]: http://www.imas.utas.edu.au/people/profiles/current-staff/h/catriona-hurd
 [CDH]: http://www.otago.ac.nz/marinescience/staff/chrishepburn.html
 [QUB]: http://www.qub.ac.uk
 [EPSRC]: http://www.epsrc.ac.uk
 [ICL]: http://amcg.ese.ic.ac.uk
 [CEFAS]: http://www.cefas.defra.gov.uk
+[TMK]: https://www.mahingakai.org.nz

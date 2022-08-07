@@ -6,23 +6,22 @@ title: Contact
 
 # Contact
 
-I am based in Dunedin (New Zealand) and I am currently contracted to Te Rūnanga o Ngāi Tahu as Principal Scientist within the [Te Ao Tūroa][TAT] Mahinga Kai team.
+I am based in Dunedin (New Zealand). I have recently (October 2021) taken on a new role as a Senior Research Fellow in the [Coastal People Southern Skies][CPSS] Centre of Research Excellence (hosted by the [University of Otago][UoO]). 
 
-As part of the [Te Tiaki Mahinga Kai][TMK] partnership I work with staff and students to support research at the [Department of Marine Science][MARINE] at the [University of Otago][UoO].  
+This new position builds on (and now absorbs much of) my previous job, as an independant contractor aligned with the [Te Tiaki Mahinga Kai][TMK] partnership and working alongside staff and students at the [Department of Marine Science][MARINE] and [Te Rūnanga o Ngāi Tahu][TAT]. 
 
-[MARINE]: http://www.otago.ac.nz/marinescience
-[UoO]: http://www.otago.ac.nz
-[TAT]: http://ngaitahu.iwi.nz/environment/
-[TMK]: http://www.mahingakai.org.nz
+[CPSS]: https://www.otago.ac.nz/sciences/research/coastal-people.html
+[MARINE]: https://www.otago.ac.nz/marinescience
+[UoO]: https://www.otago.ac.nz
+[TAT]: https://ngaitahu.iwi.nz/environment/
+[TMK]: https://www.mahingakai.org.nz
 
 ## <i class="fas fa-envelope"></i> Email
-daniel.pritchard<span style="display:none">.HOPEFULLY.HIDDEN</span>@ngaitahu.iwi.nz (Mahinga Kai Monitoring)
+daniel.pritchard<span style="display:none">.HOPEFULLY.HIDDEN</span>@otago.ac.nz (Research / CPSS)
 
-daniel.pritchard<span style="display:none">.HOPEFULLY.HIDDEN</span>@otago.ac.nz (General Research)
+research<span style="display:none">.HOPEFULLY.HIDDEN</span>@glendevon.co.nz (Legacy Admin / Queries)
 
-research<span style="display:none">.HOPEFULLY.HIDDEN</span>@glendevon.co.nz (Admin / Invoices / General Queries)
-
-daniel<span style="display:none">.HOPEFULLY.HIDDEN</span>@pritchard.co (Home / Personal)
+daniel<span style="display:none">.HOPEFULLY.HIDDEN</span>@pritchard.co (Personal)
 
 ## <i class="fas fa-phone"></i> Phone
 +64 (0)21 053 9097 (Mobile, NZ)
