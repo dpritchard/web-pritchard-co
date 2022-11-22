@@ -6,8 +6,16 @@ title: Publications
 ---
 
 # Publications
+<!-- Current in progress: -->
+<!-- Rebecca James: PvDIC -->
+<!-- Finn Ryder: Paua -->
+<!-- Duong Le: Sporoulation -->
+<!-- Ben Williams: Macrocystsis -->
+<!-- Liina and Gerli: PvDIC -->
 
-Nguyen, H.T.T., **Pritchard, D.W.**, Desmond, M.J., Hepburn, C.D. 2022. [Coralline photosynthetic physiology across a steep light gradient][nguyen:2022]. *Photosynthesis Research*
+Le, D.M., Desmond, M.J., Buschmann, A.H., **Pritchard, D.W.**, Camus, C., Hurd, C.L. and Hepburn, C.D. 2022. [Reproduction, hatchery and culture applications for the giant kelp (*Macrocystis pyrifera*): a methodological appraisal][le:2022]. *Applied Phycology*. 3:368–82.
+
+Nguyen, H.T.T., **Pritchard, D.W.**, Desmond, M.J., Hepburn, C.D. 2022. [Coralline photosynthetic physiology across a steep light gradient][nguyen:2022]. *Photosynthesis Research* 153:43–57.
 
 Gnanalingam G., **Pritchard, D.W.**, Richards D.K., Subritzky P., Flack B., Hepburn, C.D. 2021. [Local management to support local fisheries: Rāhui (temporary closure) and bag limits for blackfoot abalone (*Haliotis iris*) in southern New Zealand][gnanalingam:2021]. *Aquatic Conservation*, 31:9, 2320-2333. 
 
@@ -73,6 +81,7 @@ The ecophysiology of the deep-water macroalga *Anotrichium crinitum* (Kützing) 
 
 -->
 
+[le:2022]: https://doi.org/10.1080/26388081.2022.2086823
 [nguyen:2022]: https://doi.org/10.1007/s11120-022-00899-7
 [gnanalingam:2021]: https://doi.org/10.1002/aqc.3662
 [bennett-jones:2021]: https://doi.org/10.1071/PC20058
