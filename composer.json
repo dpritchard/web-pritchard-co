@@ -1,0 +1,6 @@
+{
+    "require": {
+        "tightenco/jigsaw": "^1.6",
+        "league/commonmark": "^2.3"
+    }
+}
