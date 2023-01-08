@@ -7,11 +7,13 @@ title: Publications
 
 # Publications
 <!-- Current in progress: -->
-<!-- Rebecca James: PvDIC -->
 <!-- Finn Ryder: Paua -->
 <!-- Duong Le: Sporoulation -->
 <!-- Ben Williams: Macrocystsis -->
-<!-- Liina and Gerli: PvDIC -->
+<!-- Liina and Gerli: PvDIC (1) -->
+<!-- Liina and Gerli: PvDIC Ecosystem (2) -->
+
+James, R.K., Hepburn, C.D., **Pritchard, D.W.**, Richards, D.K. and Hurd, C.L. 2022. [Water motion and pH jointly impact the availability of dissolved inorganic carbon to macroalgae][james:2022]. Scientific Reports. 12:21947.
 
 Le, D.M., Desmond, M.J., Buschmann, A.H., **Pritchard, D.W.**, Camus, C., Hurd, C.L. and Hepburn, C.D. 2022. [Reproduction, hatchery and culture applications for the giant kelp (*Macrocystis pyrifera*): a methodological appraisal][le:2022]. *Applied Phycology*. 3:368–82.
 
@@ -81,6 +83,7 @@ The ecophysiology of the deep-water macroalga *Anotrichium crinitum* (Kützing) 
 
 -->
 
+[james:2022]: https://doi.org/10.1038/s41598-022-26517-z
 [le:2022]: https://doi.org/10.1080/26388081.2022.2086823
 [nguyen:2022]: https://doi.org/10.1007/s11120-022-00899-7
 [gnanalingam:2021]: https://doi.org/10.1002/aqc.3662
