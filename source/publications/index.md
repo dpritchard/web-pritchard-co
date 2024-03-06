@@ -7,22 +7,39 @@ title: Publications
 
 # Publications
 <!-- Current in progress: -->
-<!-- Duong Le: Sporoulation -->
-<!-- Ben Williams: Macrocystsis -->
-<!-- Liina and Gerli: PvDIC (1) -->
-<!-- Liina and Gerli: PvDIC Ecosystem (2) -->
+<!-- Ben Williams: Macrocystsis (On hold) -->
+<!-- Le: Thermal threshold for fertilisation... MEPS Accepted 2024 -->
+<!-- Albert: Comparison of Carbon Uptake Strategies between Chara Aspera and Chara Tomentosa -->
 
-Ryder F.J., Gnanalingam G., **Pritchard, D.W.**, Rayment, W.J., Scott, N.J., Hepburn, CD. 2023. [Drivers of fishery status for the cultural keystone pāua (Haliotis iris) in Customary fishery Protection Areas in Aotearoa New Zealand][ryder:2023]. *Fisheries Research*, 261:106613.
+### 2024
+
+Ryder, F. J., Sainsbury, K. J., Hepburn, C. D., **Pritchard, D. W.** and Gnanalingam, G. 2024. [Re-assessment of a blackfoot abalone (*Haliotis iris*) population in Peraki Bay, New Zealand, after 45 years][ryder24]. In New Zealand Journal of Marine and Freshwater Research.
+
+### 2023
+
+Kluibenschedl, A., Cornwall, C.E., Nelson, W.A., Lamare, M., **Pritchard, D.W.** and Hepburn, C.D. 2023. [Interactive effects of ocean acidification and water flow on growth and recruitment of early successional coralline algal communities][kluibenschedl:2023]. Phycologia, 62:6.
+
+Ryder F.J., Gnanalingam G., **Pritchard, D.W.**, Rayment, W.J., Scott, N.J. and Hepburn, C.D. 2023. [Drivers of fishery status for the cultural keystone pāua (*Haliotis iris*) in Customary fishery Protection Areas in Aotearoa New Zealand][ryder:2023]. *Fisheries Research*, 261:106613.
+
+Pajusalu, L., Albert, G., Fachon, E., Hepburn, C.D., Kotta, J., Kõivupuu, A., Paalme, T., Pritchard, D.W., Põllumäe, A., Torn, K. and Martin, G. 2023. [Species-specific responses of macrophyte production to the increasing CO2 environment with potential ecosystem implications involved in the Baltic Sea][pajusalu:2023]. *Journal of Applied Phycology*.
+
+### 2022
 
 James, R.K., Hepburn, C.D., **Pritchard, D.W.**, Richards, D.K. and Hurd, C.L. 2022. [Water motion and pH jointly impact the availability of dissolved inorganic carbon to macroalgae][james:2022]. *Scientific Reports*, 12:21947.
 
-Le, D.M., Desmond, M.J., Buschmann, A.H., **Pritchard, D.W.**, Camus, C., Hurd, C.L. and Hepburn, C.D. 2022. [Reproduction, hatchery and culture applications for the giant kelp (*Macrocystis pyrifera*): a methodological appraisal][le:2022]. *Applied Phycology*, 3:368–82.
+Le, D.M., Desmond, M.J., **Pritchard, D.W.** and Hepburn, C.D. 2022. [Effect of temperature on sporulation and spore development of giant kelp (*Macrocystis pyrifera*)][le:2022b]. *PLoS ONE*, 17(12), e0278268.
+
+Le, D.M., Desmond, M.J., Buschmann, A.H., **Pritchard, D.W.**, Camus, C., Hurd, C.L. and Hepburn, C.D. 2022. [Reproduction, hatchery and culture applications for the giant kelp (*Macrocystis pyrifera*): a methodological appraisal][le:2022a]. *Applied Phycology*, 3:368–82.
 
 Nguyen, H.T.T., **Pritchard, D.W.**, Desmond, M.J., Hepburn, C.D. 2022. [Coralline photosynthetic physiology across a steep light gradient][nguyen:2022]. *Photosynthesis Research*, 153:43–57.
+
+### 2021
 
 Gnanalingam G., **Pritchard, D.W.**, Richards D.K., Subritzky P., Flack B., Hepburn, C.D. 2021. [Local management to support local fisheries: Rāhui (temporary closure) and bag limits for blackfoot abalone (*Haliotis iris*) in southern New Zealand][gnanalingam:2021]. *Aquatic Conservation*, 31:9, 2320-2333. 
 
 Bennett-Jones L., Gnanalingam G., Flack B., Scott, N., **Pritchard, D.W.**, Moller, H., Hepburn C.D. 2021. [Translocation of black foot pāua (*Haliotis iris*) in a customary fishery management area: transformation from top-down management to kaitiakitanga (local guardianship) of a cultural keystone][bennett-jones:2021]. *Pacific Conservation Biology*, 27, 402-417. 
+
+### 2020
 
 Bagnaro, A., Baltar, F., Brownstein, G., Lee W.G., Morales, S.E., **Pritchard, D.W.**, Hepburn C.D. 2020. [Reducing the arbitrary: fuzzy detection of microbial ecotones and ecosystems – focus on the pelagic environment][bagnaro:2020]. *Environmental Microbiome*, 15:16.
 
@@ -34,6 +51,8 @@ Albert, G., Hepburn, C.D., Pajusalu, L., Paalme, T., **Pritchard, D.W.**, Martin
 
 Pajusalu, L., Albert, G., Fachon, E., Hepburn, C.D., Kotta, J., Liversage, K., Paalme, T., Peterson, A., **Pritchard, D.W.**, Põllumäe, A., Torn, K., Martin, G. 2020. [Ocean acidification may threaten a unique seaweed community and associated industry in the Baltic Sea][pajusalu:2019]. *Journal of Applied Phycology*, 32:4, 2469-2478.
 
+### Older
+
 Hepburn C.D., Russell P., Smith A.K., **Pritchard D.W.**, Leahy E.O., Coyle L., Flack B., Russell K., Vanderburg P.H., Dale M., Jackson A.M. 2019. [Teaching the next generation of scientists to support communities in their restoration of ecosystems and ways of life][hepburn:2019]. *New Zealand Science Review*, 75:4.  
 
 Garbary, D.J., D’Archino, R., Flack, B., Hepburn, C.D., Nelson, W.A., **Pritchard, D.W.**, Sutherland, J.E. 2019. [First record of Bonnemaisonia hamifera (Bonnemaisoniales, Rhodophyta) in the South Pacific, from the South Island of New Zealand][garbary:2019]. *New Zealand Journal of Marine and Freshwater Research*, 54:2, 167-176.
@@ -44,7 +63,7 @@ Hepburn, C.D., Jackson, A.M., **Pritchard, D.W.**, Scott, N., Vanderburg, P.H., 
 
 Desmond, M.J., Pajusalu, L., **Pritchard, D.W.**, Stephens, T.A., Hepburn, C.D. 2019. [Whole community estimates of macroalgal pigment concentration within two southern New Zealand kelp forests][desmond:2019:936]. *Journal of Phycology*, 55:4 936-947.
 
-Schuchert, P., Kregting, L., **Pritchard, D. W.**, Savidge G., Elsäßer, B. 2018. [Using Coupled Hydrodynamic Biogeochemical Models to Predict the Effects of Tidal Turbine Arrays on Phytoplankton Dynamics][schuchert:2018:58]. Journal of Marine Science and Engineering, 6:2 58.
+Schuchert, P., Kregting, L., **Pritchard, D. W.**, Savidge G., Elsäßer, B. 2018. [Using Coupled Hydrodynamic Biogeochemical Models to Predict the Effects of Tidal Turbine Arrays on Phytoplankton Dynamics][schuchert:2018:58]. *Journal of Marine Science and Engineering*, 6:2 58.
 
 **Pritchard, D. W.**, Paterson, R. A., Bovy, H. C. and Barrios-O'Neill, D.  2017.  [FRAIR: an R package for fitting and comparing consumer functional responses][pritchard:2017:8].  *Methods in Ecology and Evolution*, 8:11 1528-1534.
 
@@ -83,10 +102,13 @@ The ecophysiology of the deep-water macroalga *Anotrichium crinitum* (Kützing) 
 <!--
 
 -->
-
+[ryder24]: https://doi.org/10.1080/00288330.2024.2316230
+[kluibenschedl:2023]: https://doi.org/10.1080/00318884.2023.2272776
 [ryder:2023]: https://doi.org/10.1016/j.fishres.2023.106613
+[pajusalu:2023]: https://doi.org/10.1007/s10811-023-03047-3
 [james:2022]: https://doi.org/10.1038/s41598-022-26517-z
-[le:2022]: https://doi.org/10.1080/26388081.2022.2086823
+[le:2022b]: https://doi.org/10.1371/journal.pone.0278268
+[le:2022a]: https://doi.org/10.1080/26388081.2022.2086823
 [nguyen:2022]: https://doi.org/10.1007/s11120-022-00899-7
 [gnanalingam:2021]: https://doi.org/10.1002/aqc.3662
 [bennett-jones:2021]: https://doi.org/10.1071/PC20058
