@@ -8,12 +8,13 @@ title: Publications
 # Publications
 <!-- Current in progress: -->
 <!-- Ben Williams: Macrocystsis (On hold) -->
-<!-- Le: Thermal threshold for fertilisation... MEPS Accepted 2024 -->
 <!-- Albert: Comparison of Carbon Uptake Strategies between Chara Aspera and Chara Tomentosa -->
 
 ### 2024
 
-Ryder, F. J., Sainsbury, K. J., Hepburn, C. D., **Pritchard, D. W.** and Gnanalingam, G. 2024. [Re-assessment of a blackfoot abalone (*Haliotis iris*) population in Peraki Bay, New Zealand, after 45 years][ryder24]. In New Zealand Journal of Marine and Freshwater Research.
+Le, D., Desmond, M., **Pritchard, D. W.** and Hepburn, C.D. 2024. [Thermal threshold for fertilisation and gametophyte survivorship of the giant kelp Macrocystis pyrifera][le2024]. *Marine Ecology Progress Series*, 734, 23-33.
+
+Ryder, F. J., Sainsbury, K. J., Hepburn, C. D., **Pritchard, D. W.** and Gnanalingam, G. 2024. [Re-assessment of a blackfoot abalone (*Haliotis iris*) population in Peraki Bay, New Zealand, after 45 years][ryder2024]. New Zealand Journal of Marine and Freshwater Research.
 
 ### 2023
 
@@ -21,7 +22,7 @@ Kluibenschedl, A., Cornwall, C.E., Nelson, W.A., Lamare, M., **Pritchard, D.W.**
 
 Ryder F.J., Gnanalingam G., **Pritchard, D.W.**, Rayment, W.J., Scott, N.J. and Hepburn, C.D. 2023. [Drivers of fishery status for the cultural keystone pāua (*Haliotis iris*) in Customary fishery Protection Areas in Aotearoa New Zealand][ryder:2023]. *Fisheries Research*, 261:106613.
 
-Pajusalu, L., Albert, G., Fachon, E., Hepburn, C.D., Kotta, J., Kõivupuu, A., Paalme, T., Pritchard, D.W., Põllumäe, A., Torn, K. and Martin, G. 2023. [Species-specific responses of macrophyte production to the increasing CO2 environment with potential ecosystem implications involved in the Baltic Sea][pajusalu:2023]. *Journal of Applied Phycology*.
+Pajusalu, L., Albert, G., Fachon, E., Hepburn, C.D., Kotta, J., Kõivupuu, A., Paalme, T., **Pritchard, D.W.**, Põllumäe, A., Torn, K. and Martin, G. 2023. [Species-specific responses of macrophyte production to the increasing CO2 environment with potential ecosystem implications involved in the Baltic Sea][pajusalu:2023]. *Journal of Applied Phycology*.
 
 ### 2022
 
@@ -102,7 +103,8 @@ The ecophysiology of the deep-water macroalga *Anotrichium crinitum* (Kützing) 
 <!--
 
 -->
-[ryder24]: https://doi.org/10.1080/00288330.2024.2316230
+[le2024]: https://doi.org/10.3354/meps14559
+[ryder2024]: https://doi.org/10.1080/00288330.2024.2316230
 [kluibenschedl:2023]: https://doi.org/10.1080/00318884.2023.2272776
 [ryder:2023]: https://doi.org/10.1016/j.fishres.2023.106613
 [pajusalu:2023]: https://doi.org/10.1007/s10811-023-03047-3
