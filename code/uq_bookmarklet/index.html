@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        
+
+        <title>pritchard.co</title>
+        <meta property="og:title" content="pritchard.co">
+        <meta name="description" content="Website description.">
+        <meta property="og:description" content="Website description.">
+        <meta name="referrer" content="always">
+        <meta property="og:url" content="/code/uq_bookmarklet">
+        <meta property="og:site_name" content="pritchard.co">
+
+        <link rel="canonical" href="/code/uq_bookmarklet">
+        <link rel="stylesheet" href="/assets/build/css/main.css?id=bb9ae790c0d6ab23e4a3d306a28f8826">
+        <script defer src="/assets/build/js/main.js?id=0d53f7a1c1aa99437e8a1cf3576e85e5"></script>
+    </head>
+    <body class="text-gray-900 font-sans antialiased">
+        <div class="flex flex-row py-4 px-4">
+            <div class="w-2/12">
+                <ul class="py-0 px-0 indent-0 list-none">
+	<li class=""><a class="text-lg font-bold" rel="author" href="/">pritchard.co</a></li>
+</ul>
+<ul class="px-0 indent-0 list-none">
+  <li class=""><a class="" href="/research/">Research</a></li>
+  <li class=""><a class="" href="/contact">Contact</a></li>
+  <li class=""><a class="" href="/publications/">Publications</a></li>
+  <li class=""><a class="" href="/code/">Code</a></li>
+</ul>            </div>
+            <div class="w-10/12">
+                <h1>UQ Bookmarklet</h1>
+
+<p>This bookmarklet does the same thing as previous code written for use in [other][oo] [institutions][qub].</p>
+
+<p>It was developed to support my partner who worked for University Queensland for three years. We have both since left Australia and UQ and so I don't have any real way to know if this code still works. But this page remains for posterity.</p>
+
+<h2>The Bookmarklet</h2>
+
+<p>There is nothing to it.  Really, this is it:</p>
+
+<p><a href="javascript:var str=location.href;location='http://ezproxy.library.uq.edu.au/login?url='+str.replace('?CRETRY=1&SRETRY=0','');"><img src="./uq_ezproxy.png" alt="UQ EzProxy" /></a></p>
+
+<h2>Instructions</h2>
+
+<ol>
+<li><p>You will need to add the bookmarklet to your bookmark list <sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>. The exact procedure will vary according to the browser you are using.</p>
+
+<ul>
+<li><p>In Safari (or most modern browsers) you can just "drag-n-drop" the
+bookmarklet to your "Bookmarks Bar" (press shift + ⌘ + B to show
+the bookmarks bar).</p>
+
+<p><img src="./safari_howto.png" alt="Draging-and-droping in Safari" /></p></li>
+<li><p>If you are using some other browser you might be able to right
+click and choose "Save As Bookmark", "Bookmark This Link" or
+something similar.</p></li>
+</ul></li>
+<li>When you are at a page and you want access to the full text: Just
+click the bookmarklet.</li>
+<li>Hope and pray the University is subscribed to the journal via the
+provider you happened to be browsing.</li>
+</ol>
+
+<p>Any questions, comments or requests please feel free to [contact me]({{ '/contact' | relative_url }}).</p>
+
+<h2>Development</h2>
+
+<p><strong>09/01/2013, Version 0.2</strong></p>
+
+<p>The get variable should be 'url' (which is the same as QUB).</p>
+
+<pre><code>javascript:
+    var str=location.href;
+    location='http://ezproxy.library.uq.edu.au/login?
+    url='+str.replace('?CRETRY=1&amp;SRETRY=0','');
+</code></pre>
+
+<p><strong>07/12/2012, Version 0.1</strong></p>
+
+<p>Initial attempt. Follows the scheme of the old [QUB Bookmarklet][qub] until I can figure out what the get variable needs to be called.</p>
+
+<pre><code>javascript:
+    location=window.location.protocol
+    +'//'
+    +window.location.hostname
+    +'.ezproxy.library.uq.edu.au'
+    +window.location.pathname.replace('?CRETRY=1&amp;SRETRY=0','');
+</code></pre>
+
+<p>[oo]: {{ '/code/otago_ezproxy_bookmarklet/' | relative_url }}
+[qub]: {{ '/code/qub_bookmarklet/' | relative_url }}</p>
+
+<div class="footnotes" role="doc-endnotes">
+<hr />
+<ol>
+
+<li id="fn:1" role="doc-endnote">
+<p>Clicking the bookmarklet on this page directly will <strong>not</strong> have the desired outcome.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#8617;&#xFE0E;</a></p>
+</li>
+
+</ol>
+</div>
+            </div>
+        </div>
+    </body>
+</html>
