@@ -12,17 +12,19 @@ title: Publications
 
 ### 2024
 
-Le, D., Desmond, M., **Pritchard, D. W.** and Hepburn, C.D. 2024. [Thermal threshold for fertilisation and gametophyte survivorship of the giant kelp Macrocystis pyrifera][le2024]. *Marine Ecology Progress Series*, 734, 23-33.
+Albert, G., Pajusalu, L., **Pritchard, D. W.**, Hepburn, C.D., Torn, K., Paalme, T., Põllumäe, A. et al. 2024. [Comparison of carbon uptake strategies between Chara aspera and Chara tomentosa growing in the brackish Baltic Sea and in the freshwater lakes of Estonia][albert:2024]. *Frontiers in Freshwater Science*, 2:1421114.
 
-Ryder, F. J., Sainsbury, K. J., Hepburn, C. D., **Pritchard, D. W.** and Gnanalingam, G. 2024. [Re-assessment of a blackfoot abalone (*Haliotis iris*) population in Peraki Bay, New Zealand, after 45 years][ryder2024]. New Zealand Journal of Marine and Freshwater Research.
+Le, D., Desmond, M.J., **Pritchard, D. W.** and Hepburn, C.D. 2024. [Thermal threshold for fertilisation and gametophyte survivorship of the giant kelp Macrocystis pyrifera][le:2024]. *Marine Ecology Progress Series*, 734, 23-33.
+
+Ryder, F. J., Sainsbury, K. J., Hepburn, C. D., **Pritchard, D. W.** and Gnanalingam, G. 2024. [Re-assessment of a blackfoot abalone (*Haliotis iris*) population in Peraki Bay, New Zealand, after 45 years][ryder:2024]. New Zealand Journal of Marine and Freshwater Research, 1-19.
+
+Pajusalu, L., Albert, G., Fachon, E., Hepburn, C.D., Kotta, J., Kõivupuu, A., Paalme, T., **Pritchard, D.W.**, Põllumäe, A., Torn, K. and Martin, G. 2023. [Species-specific responses of macrophyte production to the increasing CO2 environment with potential ecosystem implications involved in the Baltic Sea][pajusalu:2023]. *Journal of Applied Phycology*.
 
 ### 2023
 
 Kluibenschedl, A., Cornwall, C.E., Nelson, W.A., Lamare, M., **Pritchard, D.W.** and Hepburn, C.D. 2023. [Interactive effects of ocean acidification and water flow on growth and recruitment of early successional coralline algal communities][kluibenschedl:2023]. Phycologia, 62:6.
 
 Ryder F.J., Gnanalingam G., **Pritchard, D.W.**, Rayment, W.J., Scott, N.J. and Hepburn, C.D. 2023. [Drivers of fishery status for the cultural keystone pāua (*Haliotis iris*) in Customary fishery Protection Areas in Aotearoa New Zealand][ryder:2023]. *Fisheries Research*, 261:106613.
-
-Pajusalu, L., Albert, G., Fachon, E., Hepburn, C.D., Kotta, J., Kõivupuu, A., Paalme, T., **Pritchard, D.W.**, Põllumäe, A., Torn, K. and Martin, G. 2023. [Species-specific responses of macrophyte production to the increasing CO2 environment with potential ecosystem implications involved in the Baltic Sea][pajusalu:2023]. *Journal of Applied Phycology*.
 
 ### 2022
 
@@ -52,11 +54,11 @@ Albert, G., Hepburn, C.D., Pajusalu, L., Paalme, T., **Pritchard, D.W.**, Martin
 
 Pajusalu, L., Albert, G., Fachon, E., Hepburn, C.D., Kotta, J., Liversage, K., Paalme, T., Peterson, A., **Pritchard, D.W.**, Põllumäe, A., Torn, K., Martin, G. 2020. [Ocean acidification may threaten a unique seaweed community and associated industry in the Baltic Sea][pajusalu:2019]. *Journal of Applied Phycology*, 32:4, 2469-2478.
 
+Garbary, D.J., D’Archino, R., Flack, B., Hepburn, C.D., Nelson, W.A., **Pritchard, D.W.**, Sutherland, J.E. 2020. [First record of Bonnemaisonia hamifera (Bonnemaisoniales, Rhodophyta) in the South Pacific, from the South Island of New Zealand][garbary:2020]. *New Zealand Journal of Marine and Freshwater Research*, 54:2, 167-176.
+
 ### Older
 
 Hepburn C.D., Russell P., Smith A.K., **Pritchard D.W.**, Leahy E.O., Coyle L., Flack B., Russell K., Vanderburg P.H., Dale M., Jackson A.M. 2019. [Teaching the next generation of scientists to support communities in their restoration of ecosystems and ways of life][hepburn:2019]. *New Zealand Science Review*, 75:4.  
-
-Garbary, D.J., D’Archino, R., Flack, B., Hepburn, C.D., Nelson, W.A., **Pritchard, D.W.**, Sutherland, J.E. 2019. [First record of Bonnemaisonia hamifera (Bonnemaisoniales, Rhodophyta) in the South Pacific, from the South Island of New Zealand][garbary:2019]. *New Zealand Journal of Marine and Freshwater Research*, 54:2, 167-176.
 
 Desmond, M.J., **Pritchard, D.W.**, Hurd, C.L., Richards, D.K., Schweikert, K., Wing, S., Hepburn, C.D. 2019. [Superior photosynthetic performance of the invasive kelp *Undaria pinnatifida* may contribute to continued range expansion in a wave-exposed kelp forest community][desmond:2019]. *Marine Biology*, 166:139.
 
@@ -103,8 +105,9 @@ The ecophysiology of the deep-water macroalga *Anotrichium crinitum* (Kützing) 
 <!--
 
 -->
-[le2024]: https://doi.org/10.3354/meps14559
-[ryder2024]: https://doi.org/10.1080/00288330.2024.2316230
+[albert:2024]: https://doi.org/10.3389/ffwsc.2024.1421114
+[le:2024]: https://doi.org/10.3354/meps14559
+[ryder:2024]: https://doi.org/10.1080/00288330.2024.2316230
 [kluibenschedl:2023]: https://doi.org/10.1080/00318884.2023.2272776
 [ryder:2023]: https://doi.org/10.1016/j.fishres.2023.106613
 [pajusalu:2023]: https://doi.org/10.1007/s10811-023-03047-3
@@ -117,11 +120,11 @@ The ecophysiology of the deep-water macroalga *Anotrichium crinitum* (Kützing) 
 [bagnaro:2020]: https://doi.org/10.1186/s40793-020-00363-w
 [twist:2020]: https://doi.org/10.3354/meps13496 
 [nguyen:2020]: https://doi.org/10.1007/s10811-019-02019-w
+[garbary:2020]: https://doi.org/10.1080/00288330.2019.1661260
 [hepburn:2019]: https://scientists.org.nz/resources/Documents/NZSR/NZSR75(4).pdf
 [albert:2019]: https://doi.org/10.1007/s10811-019-01953-z
 [desmond:2019]: https://doi.org/10.1007/s00227-019-3593-2
 [pajusalu:2019]: https://doi.org/10.1007/s10811-019-01935-1
-[garbary:2019]: https://doi.org/10.1080/00288330.2019.1661260
 [hepburn:2019:1535]: https://doi.org/10.1002/aqc.3152
 [desmond:2019:936]: https://doi.org/10.1111/jpy.12884
 [schuchert:2018:58]: https://doi.org/10.3390/jmse6020058
