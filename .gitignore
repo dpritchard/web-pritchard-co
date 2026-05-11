@@ -1,12 +1,13 @@
 /build_local/
+/build_production/
 /cache/
 /node_modules/
 /vendor/
 /.idea/
 /.vscode/
+/.claude/
 npm-debug.log
 
 # Optional ignores
 # /build_staging/
-# /build_production/
 # /source/assets/build/

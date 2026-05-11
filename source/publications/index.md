@@ -8,7 +8,10 @@ title: Publications
 # Publications
 <!-- Current in progress: -->
 <!-- Ben Williams: Macrocystsis (On hold) -->
-<!-- Albert: Comparison of Carbon Uptake Strategies between Chara Aspera and Chara Tomentosa -->
+<!-- -->
+
+### 2025
+Lees, L., Peart, R., Kotta, J., Zuercher, R., Aps, R., Greig, K., Koorits, T., **Pritchard, D. W.**, Tucker, B. and Barboza, F. 2025. [Comparative analysis of top-down and bottom-up approaches in maritime spatial planning][lees:2025]. *Regional Studies in Marine Science*, 88:104257.
 
 ### 2024
 
@@ -105,6 +108,7 @@ The ecophysiology of the deep-water macroalga *Anotrichium crinitum* (Kützing) 
 <!--
 
 -->
+[lees:2025]: https://doi.org/10.1016/j.rsma.2025.104257
 [albert:2024]: https://doi.org/10.3389/ffwsc.2024.1421114
 [le:2024]: https://doi.org/10.3354/meps14559
 [ryder:2024]: https://doi.org/10.1080/00288330.2024.2316230
