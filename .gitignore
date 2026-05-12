@@ -9,6 +9,8 @@
 npm-debug.log
 /buildnotes.md
 
+/source/assets/build/
+/docs/
+
 # Optional ignores
 # /build_staging/
-# /source/assets/build/
